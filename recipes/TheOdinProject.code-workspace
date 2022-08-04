@@ -1,0 +1,40 @@
+{
+	"folders": [
+		{
+			"path": "../../../html-boilerplate"
+		},
+		{
+			"path": "../../../odin-links-and-images"
+		},
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../css-exercises"
+		},
+		{
+			"path": "../../css-exercises/margin-and-padding"
+		},
+		{
+			"path": "../../odin-landing-page"
+		},
+		{
+			"path": "../../odin-js-Practice"
+		},
+		{
+			"path": "../../javascript-exercises"
+		},
+		{
+			"path": "../../odin-DOM-practice"
+		},
+		{
+			"path": "../../JavaScript30/JavaScript30/01 - JavaScript Drum Kit"
+		},
+		{
+			"path": "../../JavaScript30/JavaScript30/25 - Event Capture, Propagation, Bubbling and Once"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "25 - Event Capture, Propagation, Bubbling and Once"
+	}
+}

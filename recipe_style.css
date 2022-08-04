@@ -1,0 +1,36 @@
+img {
+    width: 500px;
+    height: auto
+}
+
+p,
+ul,
+li,
+h1,
+title,
+ol {
+    color: teal
+}
+
+h3 {
+    color: chocolate
+}
+
+a {
+    color: goldenrod
+}
+
+.title {
+    font-size: 400%;
+    font-weight: 700;
+    text-align: center;
+}
+
+.link {
+    font-size: 150%;
+    font-weight: 500;
+    text-align: center;
+    display: block;
+    border: 2px pink;
+    background-color: aliceblue;
+}
